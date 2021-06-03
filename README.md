@@ -21,8 +21,8 @@
 ## Details regarding Implementation (will be further updated):
 Performed data wrangling on a dataset with about 900,000 rows and 85 features on population dataset of Germany provided by Bertelsmann Arvato in collaboration with Udacity which included:
   1) Removing rows and columns with too much missing data, re-encoding categorical and mixed features.<br>
-  2)Imputed the data and apllied Feature Scaling<br>
-  3)Performed Feature Extraction using PCA (37 latent features) and interpreted the Principal Components<br>
-  4)Applied Elbow method to obtain optimum clusters for KMeans Clustering<br>
+  2) Imputed the data and apllied Feature Scaling<br>
+  3) Performed Feature Extraction using PCA (37 latent features) and interpreted the Principal Components<br>
+  4) Applied Elbow method to obtain optimum clusters for KMeans Clustering<br>
   5) Applied all these steps to Customer Dataset provided by Bertelsmann Arvato Udacity (Not Public)<br>
   6) Compared the cluster distributions to find Potential Customers for the Company<br>
