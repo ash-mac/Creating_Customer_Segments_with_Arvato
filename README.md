@@ -1,4 +1,4 @@
-# Creating_Customer_Segments_with_Aravato
+# Creating_Customer_Segments_with_Arvato
 # Unsupervised Learning Project
 ## Dependencies:
 - sklearn : 0.23.2
